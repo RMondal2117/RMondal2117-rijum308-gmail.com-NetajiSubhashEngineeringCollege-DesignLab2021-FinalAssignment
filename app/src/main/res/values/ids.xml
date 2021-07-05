@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="orders_list" type="id" />
+    <item name="products_list" type="id" />
+    <item name="recycler_menu" type="id" />
+</resources>
